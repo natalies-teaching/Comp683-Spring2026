@@ -36,6 +36,8 @@ All topics, readings, homework, and lecture notes can be found here.
 |Date| Topic | Reading | Notes | Code |
 |------| ------ | -------- | ------ | ----|
 Wednesday, January 7 | Introduction; Bioinformatics vs computational biology 
+Monday, January 12 | Linear algebra review, matrix rank, building graph representations of data| | | 
+Wednesday, January 14 | Graph diffusion and graph Laplacian | | | 
 
 <!---
 | Date | Topic | Reading | Notes | Code |
