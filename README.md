@@ -58,7 +58,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Mar 18 | Wednesday | Spring Break (No Class)                                                           | \-              |
 | Mar 23 | Monday    | Mapping trajectories in single-cell data                                          | Natalie  | [Diffusion Maps for Differentiation](https://academic.oup.com/bioinformatics/article/31/18/2989/241305)] | [[Lecture 15](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture15.pdf)] |  |
 | Mar 25 | Wednesday | Project proposal presentations day 1                                              | All             |
-| Mar 30 | Monday    | Project proposal presentations day 2                                              | All             |
+| Mar 30 | Monday [[Homework 2 assigned and due April 15](https://colab.research.google.com/drive/1iSt4D0S6tc87GB8gsRC3bCwX1dtdEE5u?usp=sharing)]    | Project proposal presentations day 2                                              | All             |
 | Apr 1  | Wednesday | Intro to spatial omics                                                            | Natalie         |
 | Apr 6  | Monday    | Graph neural networks vs label propagation                                        | Natalie         |
 | Apr 8  | Wednesday | Journal club day 2                                                                | All             |
