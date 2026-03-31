@@ -61,7 +61,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Mar 30 | Monday [[Homework 2 assigned and due April 15](https://colab.research.google.com/drive/1iSt4D0S6tc87GB8gsRC3bCwX1dtdEE5u?usp=sharing)]    | Project proposal presentations day 2                                              | All             |
 | Apr 1  | Wednesday | Intro to spatial omics                                                            | Natalie         | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)] | [[Lecture 16](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture16.pdf)]
 | Apr 6  | Monday    | Graph neural networks vs label propagation                                        | Natalie         |
-| Apr 8  | Wednesday | Journal club day 2                                                                | All             |
+| Apr 8  | Wednesday | Journal club day 2    (*proposal to change to April 20*)                                                            | All             |
 | Apr 13 | Monday    | Graph-based multiomics data integration                                           | Natalie         |
 | Apr 15 | Wednesday | Multiomics data integration via factor analysis                                   | Natalie         |
 | Apr 20 | Monday    | Technical writing and communication for computational biology                     | Natalie         |
