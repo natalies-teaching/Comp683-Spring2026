@@ -67,7 +67,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Apr 20 | Monday    | Journal club day 2    (*proposal to change to April 20*)                     | All         | [[Journal club 2](https://www.cell.com/immunity/fulltext/S1074-7613(25)00433-9)] | [[shared slide deck, jclub 2](https://docs.google.com/presentation/d/1ZiVAKG3IIftn_Q3jXQmwNIM2Hb_Ny46HqkngmHRoZME/edit?usp=sharing)]
 | Apr 22 | Wednesday | Final project presentations day 1                                                 | All             |
 | Apr 27 | Monday    | Final project presentations day 2                                                 | All             |
-
+| Apr 29 (by noon!) | Monday    | Final project writeups due                                                 | All             |
 # Key Dates and Milestones
 Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
 
@@ -76,8 +76,7 @@ Every year the precise timing of getting through particular topics varies. Here 
 * Mid-march : project proposals.
 * April 8: Journal club collaboration 1
 * mid-April : homework 2 due
-* end of april/ last week of class : project presentations and final writeups due.
-
+* Final exam day (April 29 by noon): Final project writeups due on canvas 
 # Style for journal club collaboration meetings
 We will discuss two recent, high-impact papers with a journal club style, where the components of the journal club presentation are partitioned across groups of students. Students can sign up for a presenter role and paper for one of the two papers (signup link TBD). Attendance is mandatory for these sessions and your grade for this component will be based on attendance at both sessions and your presentation/participation in one of the presentations. 
 
