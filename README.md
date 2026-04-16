@@ -65,7 +65,7 @@ All topics, readings, homework, and lecture notes can be found here.
 | Apr 13 | Monday    | Multiomics data integration via factor analysis                                           | Natalie         | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)]|[[Lecture 19](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture19.pdf)]| 
 | Apr 15 | Wednesday | MOFA+ for multiomics integration across sample groups, Technical writing and communication for computational biology                                  | Natalie         | [[MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)]| [[Lecture 20](https://github.com/natalies-teaching/Comp683-Spring2026/blob/main/Lectures/Lecture20.pdf)] | 
 | Apr 20 | Monday    | Journal club day 2    (*proposal to change to April 20*)                     | All         | [[Journal club 2](https://www.cell.com/immunity/fulltext/S1074-7613(25)00433-9)] | [[shared slide deck, jclub 2](https://docs.google.com/presentation/d/1ZiVAKG3IIftn_Q3jXQmwNIM2Hb_Ny46HqkngmHRoZME/edit?usp=sharing)]
-| Apr 22 | Wednesday | Final project presentations day 1                                                 | All             |
+| Apr 22 | Wednesday | Final project presentations day 1                                                 | All             | [[Schedule](https://docs.google.com/spreadsheets/d/16i_6NzZYjHrr-ZCbkGTwXfDJH9kF5A0-KxATfbkTocg/edit?usp=sharing)]
 | Apr 27 | Monday    | Final project presentations day 2                                                 | All             |
 | Apr 29 (by noon!) | Monday    | Final project writeups due                                                 | All             |
 # Key Dates and Milestones
